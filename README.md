@@ -35,6 +35,6 @@ A geography guessing game with the following rules:
     - Countries that share a border will **NOT** have 0 km `distance`
     - The maximum `distance` possible is roughly `20000 km` (two points on opposite sides of the globe)
     - The `proximity` percentage is based on the maximum `distance`
-![Screenshot (36)](https://user-images.githubusercontent.com/84905507/208175432-fda1ad93-e62c-439e-8258-38f27e21d331.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/84905507/208175585-1b4f8f3a-12aa-4f3b-9e06-384b4999e280.png)
 
 
