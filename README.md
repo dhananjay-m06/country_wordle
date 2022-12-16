@@ -1,9 +1,5 @@
 # Streamlit Worldle
 
-Streamlit + SQLite clone of worldle
-
-Built with ❤️ by [gerardrbentley](https://github.com/gerardrbentley)
-
 ## What's this?
 
 - `README.md`: This Document! To help you find your way around
